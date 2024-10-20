@@ -1,0 +1,17 @@
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/bin/Debug/net8.0/ConfigManagerApp
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/bin/Debug/net8.0/ConfigManagerApp.deps.json
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/bin/Debug/net8.0/ConfigManagerApp.runtimeconfig.json
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/bin/Debug/net8.0/ConfigManagerApp.dll
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/bin/Debug/net8.0/ConfigManagerApp.pdb
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.csproj.AssemblyReference.cache
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.AssemblyInfoInputs.cache
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.AssemblyInfo.cs
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.csproj.CoreCompileInputs.cache
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigMa.98F57344.Up2Date
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.dll
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/refint/ConfigManagerApp.dll
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.pdb
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ConfigManagerApp.genruntimeconfig.cache
+/Users/synergy02/Desktop/lectures hw 1/ConfigManagerApp/obj/Debug/net8.0/ref/ConfigManagerApp.dll
